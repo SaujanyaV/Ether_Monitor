@@ -1,2 +1,2 @@
-# Ether_Monitor
-A script to see ether (native token) balance on EVM compatible chains. Change the bsc variable to any relevant EVM compatible rpc network and search your address.
+# blockchainScripts
+A couple scripts for basic tracking and sending of native tokens on any evm compatible chain.
